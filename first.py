@@ -4,6 +4,6 @@ print("Hello World")
 hungry = input("Are you Hungry ?")
 
 if hungry:
-    print("Eat")
+    print("Eat Samosa or vada pav")
 else:
     print("Do Your Task")
